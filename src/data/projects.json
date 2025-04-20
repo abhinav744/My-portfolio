@@ -1,0 +1,23 @@
+[
+  {
+    "title": "The Digital Marketplace",
+    "imageSrc": "projects/digital.png",
+    "description": "Developed an e-commerce platform for small businesses.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "source": "https://github.com/abhinav744/The-Digital-Marketplace"
+  },
+  {
+    "title": "Women Security Application",
+    "imageSrc": "projects/women.jpg",
+    "description": "Created a safety web app for women.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/abhinav744/Women-security-application"
+  },
+  {
+    "title": "Burger Builder Project",
+    "imageSrc": "projects/burger.jpg",
+    "description": "Designed an interactive burger-building web app, improving user retention.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/abhinav744/Burger-build-project"
+  }
+]

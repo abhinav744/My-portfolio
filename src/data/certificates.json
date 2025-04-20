@@ -1,0 +1,73 @@
+[
+    {
+      "title": "Java",
+      "issuer": "Udemy",
+      "date": "April 2025",
+      "imageSrc": "certificate/java.png",
+      "certificateUrl": "https://drive.google.com/file/d/1RGCueEON0M53Q5q377MNZPnHn3dcDx2e/view?usp=sharing"
+    },
+    {
+      "title": "Python",
+      "issuer": "Udemy",
+      "date": "March 2025",
+      "imageSrc": "certificate/python.png",
+      "certificateUrl": "https://drive.google.com/file/d/1b0F3eDJym9TKLT8SC3gNd_22LsZ1_-Xr/view?usp=sharing"
+    },
+    {
+      "title": "React",
+      "issuer": "Udemy",
+      "date": "March 2025",
+      "imageSrc": "certificate/react.png",
+      "certificateUrl": "https://drive.google.com/file/d/1BUNOly-5jLuENlSaqdv68s3FWJh8MUMZ/view?usp=sharing"
+    },
+    {
+      "title": "Spring Boot",
+      "issuer": "Udemy",
+      "date": "April 2025",
+      "imageSrc": "certificate/spring.png",
+      "certificateUrl": "https://drive.google.com/file/d/1Q76kVwXsAokKcgrpAV6SBjAM7OBgZuuE/view?usp=sharing"
+    },
+    {
+      "title": "FastAPI",
+      "issuer": "Udemy",
+      "date": "April 2025",
+      "imageSrc": "certificate/fastapi.png",
+      "certificateUrl": "https://drive.google.com/file/d/1i5spp5PxiL7sUdzV1p0M5fMX-2bKc0tZ/view?usp=sharing"
+    },
+    {
+      "title": "Docker",
+      "issuer": "Udemy",
+      "date": "April 2025",
+      "imageSrc": "certificate/docker.png",
+      "certificateUrl": "https://drive.google.com/file/d/17GEQh6_PthrJhMhTkibQpqHCToDcqWIE/view?usp=sharing"
+    },
+    {
+      "title": "Kafka",
+      "issuer": "Udemy",
+      "date": "April 2025",
+      "imageSrc": "certificate/kafka.png",
+      "certificateUrl": "https://drive.google.com/file/d/1uOx9SyzXFsJzsdmbpG-ZuDU2qC-ABLNR/view?usp=sharing"
+    },
+    {
+      "title": "Spark",
+      "issuer": "Udemy",
+      "date": "April 2025",
+      "imageSrc": "certificate/spark.png",
+      "certificateUrl": "https://drive.google.com/file/d/1r7ki2lkEL7l7s4ZXKjMtDxxX5P_6GZ5g/view?usp=sharing"
+    },
+    {
+      "title": "Django",
+      "issuer": "Udemy",
+      "date": "April 2025",
+      "imageSrc": "certificate/django.png",
+      "certificateUrl": "https://drive.google.com/file/d/16eCrN0NDao1tRacbrlmOnRU87ncX41SY/view?usp=sharing"
+    },
+    {
+      "title": "DSA",
+      "issuer": "Udemy",
+      "date": "October 2023",
+      "imageSrc": "certificate/dsa.jpg",
+      "certificateUrl": "https://drive.google.com/file/d/1ZElhb8czBIGviCkNMHframNfbX6XXHh1/view?usp=sharing"
+    }
+  ]
+  
