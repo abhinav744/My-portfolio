@@ -1,23 +1,68 @@
 [
   {
-    "title": "The Digital Marketplace",
-    "imageSrc": "projects/digital.png",
-    "description": "Developed an e-commerce platform for small businesses.",
-    "skills": ["React", "Express", "Node", "MongoDB"],
-    "source": "https://github.com/abhinav744/The-Digital-Marketplace"
-  },
-  {
-    "title": "Women Security Application",
-    "imageSrc": "projects/women.jpg",
-    "description": "Created a safety web app for women.",
+    "title": "Movies Watchlist",
+    "imageSrc": "projects/movie.jpeg",
+    "description": "Application that allows users to search, save, and manage their favorite movies.",
+    "link": "https://watch-list-mov.netlify.app/",
     "skills": ["React", "Express", "Node"],
-    "source": "https://github.com/abhinav744/Women-security-application"
+    "source": "https://github.com/abhinav744/watchlist"
   },
   {
     "title": "Burger Builder Project",
     "imageSrc": "projects/burger.jpg",
     "description": "Designed an interactive burger-building web app, improving user retention.",
     "skills": ["React", "Express", "Node"],
+    "link": "https://react-my-burger-230cd.web.app/",
     "source": "https://github.com/abhinav744/Burger-build-project"
+  },
+  {
+    "title": "FastAPI Project",
+    "imageSrc": "projects/fastapi.jpg",
+    "description": "FastAPI-based backend application for building high-performance APIs.",
+    "skills": ["Python", "FastAPI", "SQLite"],
+    "link": "https://todoapp-4r4c.onrender.com",
+    "source": "https://github.com/abhinav744/FastAPI"
+  },
+  {
+    "title": "The Digital Marketplace",
+    "imageSrc": "projects/digital.png",
+    "description": "Platform that enables users to browse, purchase, and sell digital and physical products.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "source": "https://github.com/abhinav744/The-Digital-Marketplace"
+  },
+  {
+    "title": "Spring Boot Application",
+    "imageSrc": "projects/spring.png",
+    "description": "Spring Boot application that shows the development of a RESTful API.",
+    "skills": ["Java", "Spring Boot", "HTML"],
+    "source": "https://github.com/abhinav744/Spring-Boot"
+  },
+  {
+    "title": "Blog Clone Project",
+    "imageSrc": "projects/blog.jpg",
+    "description": "Built with Django, featuring user authentication, post creation, editing, deletion.",
+    "skills": ["Python", "Django", "HTML", "CSS"],
+    "source": "https://github.com/abhinav744/Blog-Clone-Project-Django"
+  },
+  {
+    "title": "Supervised Machine Learning",
+    "imageSrc": "projects/ml.jpg",
+    "description": "Supervised Machine Learning techniques using regression and classification algorithms.",
+    "skills": ["Python", "scikit-learn", "pandas", "numpy"],
+    "source": "https://github.com/abhinav744/supervised-ml-regression-classification"
+  },
+  {
+    "title": "Functions, Tools, and Agents",
+    "imageSrc": "projects/func.jpg",
+    "description": "Agents framework in combination with tools and function-calling capability.",
+    "skills": ["LangChain", "OpenAI", "Python"],
+    "source": "https://github.com/abhinav744/functions-tools-and-agents-with-langchain"
+  },
+  {
+    "title": "Chat With Your Data",
+    "imageSrc": "projects/chat.jpg",
+    "description": "LangChain to allow natural language querying over your own documents and data.",
+    "skills": ["LangChain", "Chroma", "Python"],
+    "source": "https://github.com/abhinav744/langchain-chat-with-your-data"
   }
 ]

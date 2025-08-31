@@ -68,6 +68,27 @@
       "date": "October 2023",
       "imageSrc": "certificate/dsa.jpg",
       "certificateUrl": "https://drive.google.com/file/d/1ZElhb8czBIGviCkNMHframNfbX6XXHh1/view?usp=sharing"
+    },
+    {
+      "title": "Functions, Tools and Agents with LangChain",
+      "issuer": "DeepLearning.AI",
+      "date": "April 2025",
+      "imageSrc": "certificate/lang.jpg",
+      "certificateUrl": "https://learn.deeplearning.ai/accomplishments/dcf2b759-2a96-4d84-be53-4d03f1bebd12?usp=sharing"
+    },
+    {
+      "title": "LangChain Chat with Your Data",
+      "issuer": "DeepLearning.AI",
+      "date": "April 2025",
+      "imageSrc": "certificate/lang.jpg",
+      "certificateUrl": "https://learn.deeplearning.ai/accomplishments/19eba9fb-f1b7-4fcf-b8d5-c217fc026eea?usp=sharing"
+    },
+    {
+      "title": "Machine Learning",
+      "issuer": "DeepLearning.AI",
+      "date": "August 2025",
+      "imageSrc": "certificate/course_ml.jpg",
+      "certificateUrl": "https://coursera.org/share/78fc68ed8b211ed8c61ebfedfe08bdd4"
     }
   ]
   

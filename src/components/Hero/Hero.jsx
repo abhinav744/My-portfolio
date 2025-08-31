@@ -1,7 +1,7 @@
 import React from "react";
 
 import styles from "./Hero.module.css";
-import { getImageUrl } from "../../utils";
+// import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
   return (
@@ -12,15 +12,17 @@ export const Hero = () => {
         I bring a fresh perspective and a robust foundation in full-stack development and big data
 engineering with unwavering commitment and timely project delivery. 
         </p>
-        <a href="https://drive.google.com/file/d/1s-D5peXeHo0egdS1TGYznOJEiKUUBlkg/view?usp=sharing" className={styles.resume}>
+        <a href="https://drive.google.com/file/d/1O36IgchijnRkmnaTKDmGC9KSTo5-lrKL/view?usp=sharing" className={styles.resume}>
           Resume
         </a>
       </div>
       <img
-        src={getImageUrl("hero/abhinav_photo.png")}
+        src="/assets/hero/abhinav_photo.webp"
         alt="Hero image of me"
         className={styles.heroImg}
+        loading="lazy"
       />
+
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>

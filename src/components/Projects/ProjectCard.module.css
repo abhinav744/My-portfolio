@@ -3,26 +3,38 @@
 .container {
   display: flex;
   flex-direction: column;
+  justify-content: space-between; /* Ensures even spacing inside the box */
   border-radius: 10px;
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
-  max-width: 345px;
+  width: 380px;          /* Increased by 10% */
+  height: 550px;         /* Increased by 10% */
+  box-sizing: border-box;
 }
 
 .image {
   margin-bottom: 26px;
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
 }
 
 .title {
   font-size: 25px;
   font-weight: 700;
+  margin-bottom: 6px;
 }
 
 .description {
-  margin-top: 6px;
   font-size: 25px;
   font-weight: 400;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* Limits text to 3 lines */
+  -webkit-box-orient: vertical;
 }
 
 .skills {
@@ -58,4 +70,12 @@
   border-radius: 100px;
   background: var(--color-primary);
   padding: 1px 22px;
+}
+
+/* Optional: parent layout to ensure even grid of containers */
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
 }
